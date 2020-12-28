@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.2.0"
+  },
+  "fitbit": {
+    "appUUID": "36969a63-ba6e-491e-a3b4-5d99e3002b7c",
+    "appType": "app",
+    "appDisplayName": "Blocks",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#00bcd4",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "mira"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Blocks"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
