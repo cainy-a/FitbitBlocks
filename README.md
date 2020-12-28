@@ -7,3 +7,5 @@ Made for Versa 2 but you (should) be able to test it on lots of other FitBits to
 Sideloading it? I dunno how I just used the studio online.
 
 Link: https://gallery.fitbit.com/details/36969a63-ba6e-491e-a3b4-5d99e3002b7c
+
+YOU MUST SET COLOURS FOR IT TO WORK
